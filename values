@@ -1,0 +1,6 @@
+<resources>
+    <!-- Gaya dengan Drawable sebagai Background -->
+    <style name="ImageBackgroundStyle">
+        <item name="android:background">@drawable/your_image</item>
+    </style>
+</resources>
